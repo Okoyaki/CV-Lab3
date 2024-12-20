@@ -26,8 +26,8 @@
 ## Описание разработанной системы
 В качестве датасета изображений был взят датасет 5 разных видов цветков: маргаритка, одуванчик, роза, подсолнух, тюльпан:
 
-[!alt text](data/images/daisy/5673551_01d1ea993e_n.jpg)
-[!alt text](data/images/dandelion/7355522_b66e5d3078_m.jpg)
-[!alt text](data/images/roses/99383371_37a5ac12a3_n.jpg)
-[!alt text](data/images/sunflowers/6953297_8576bf4ea3.jpg)
-[!alt text](data/images/tulips/5547758_eea9edfd54_n.jpg)
+[!alt text](https://github.com/Okoyaki/CV-Lab3/blob/3aedc1313a0523807993d5309e2cb222dab3c4f5/data/images/daisy/5673551_01d1ea993e_n.jpg)
+[!alt text](https://github.com/Okoyaki/CV-Lab3/blob/3aedc1313a0523807993d5309e2cb222dab3c4f5/data/images/dandelion/7355522_b66e5d3078_m.jpg)
+[!alt text](https://github.com/Okoyaki/CV-Lab3/blob/3aedc1313a0523807993d5309e2cb222dab3c4f5/data/images/roses/99383371_37a5ac12a3_n.jpg)
+[!alt text](https://github.com/Okoyaki/CV-Lab3/blob/3aedc1313a0523807993d5309e2cb222dab3c4f5/data/images/sunflowers/6953297_8576bf4ea3.jpg)
+[!alt text](https://github.com/Okoyaki/CV-Lab3/blob/3aedc1313a0523807993d5309e2cb222dab3c4f5/data/images/tulips/5547758_eea9edfd54_n.jpg)
